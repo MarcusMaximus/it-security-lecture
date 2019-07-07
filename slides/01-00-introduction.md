@@ -62,6 +62,7 @@ _You can help save a :deciduous_tree: by not :printer: all slides for the entire
 * Physical presence at lectures is mandatory and will be logged
 * Exercises are mandatory (unless explicitly marked as _optional_)
 * Exercises marked with ":pushpin:" might be done in the plenum
+* Exercises marked with ":pencil:" must have a (digitally) written result
 * Active participation is encouraged. Otherwise at least be quiet
 * If you are done with the last exercise of the day, you may leave
 
@@ -77,9 +78,8 @@ _You can help save a :deciduous_tree: by not :printer: all slides for the entire
 4. [Network Security](01-04-network_security.md)
 5. [Encryption](01-05-encryption.md)
 6. [Security Management & Organization](01-06-security_mgmt_and_org.md)
-7. [Threat Modelling](01-07-threat_modelling.md)
-8. [Risk Assessments](01-08-risk_assessments.md)
-9. [Penetration Tests & Security Automation](01-09-pentests_and_automation.md)
+7. [Threat Modeling](01-07-threat_modeling.md)
+8. [Penetration Testing](01-08-penetration_testing.md)
 
 ---
 
@@ -123,6 +123,9 @@ _You can help save a :deciduous_tree: by not :printer: all slides for the entire
 #### Optional Literature Recommendations
 
 * Andress: The Basics of Information Security (2nd Edition), 2014
+* Shostack: Threat Modeling: Designing for Security, 2014
+* Paar/Pelzl: Understanding Cryptography: A Textbook for Students and Practitioners, 2010
+  * [Introduction to Cryptography by Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg) <small>(24 recorded lectures)</small>
 
 ---
 
